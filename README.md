@@ -21,3 +21,8 @@ Website ini menampilkan landing page responsif bertema perusahaan teknologi bern
 
 Seluruh komponen dikembangkan menggunakan Bootstrap.
 
+Preview Tampilan
+![Preview Landing Page](screenshot/1.png)
+![Preview Landing Page](screenshot/2.png)
+![Preview Landing Page](screenshot/3.png)
+![Preview Landing Page](screenshot/4.png)
