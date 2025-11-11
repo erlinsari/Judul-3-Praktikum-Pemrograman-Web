@@ -7,16 +7,17 @@ Framework yang dipilih: Bootstrap
 
 Website ini menampilkan landing page responsif bertema perusahaan teknologi bernama Arma Technology, yang memiliki beberapa bagian utama sebagai berikut:
 
-Header/Navigation
+1. Header/Navigation
 
-Hero Section 
+2. Hero Section 
 
-Features Section
+3. Features Section
 
-About Section 
+4. About Section 
 
-Contact Form 
+5. Contact Form 
 
-Footer
+6. Footer
 
 Seluruh komponen dikembangkan menggunakan Bootstrap.
+
